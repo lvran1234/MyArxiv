@@ -4,8 +4,23 @@ cache_url = "https://lvran1234.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
+category = "cs.AI"
+title = "Artificial Intelligence"
+
+[[sources]]
+limit = 150
+category = "cs.CG"
+title = "Computational Geometry"
+
+[[sources]]
+limit = 150
 category = "cs.CL"
 title = "Computation and Language"
+
+[[sources]]
+limit = 150
+category = "cs.CR"
+title = "Cryptography and Security"
 
 [[sources]]
 limit = 150
@@ -14,8 +29,48 @@ title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
 limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+category = "cs.DC"
+title = "Distributed, Parallel, and Cluster Computing"
+
+[[sources]]
+limit = 150
+category = "cs.DM"
+title = "Discrete Mathematics"
+
+[[sources]]
+limit = 150
+category = "cs.DS"
+title = "Data Structures and Algorithms"
+
+[[sources]]
+limit = 150
+category = "cs.ET"
+title = "Emerging Technologies"
+
+[[sources]]
+limit = 150
+category = "cs.GL"
+title = "General Literature"
+
+[[sources]]
+limit = 150
+category = "cs.GR"
+title = "Graphics"
+
+[[sources]]
+limit = 150
+category = "cs.GT"
+title = "Computer Science and Game Theory"
+
+[[sources]]
+limit = 150
+category = "cs.HC"
+title = "Human-Computer Interaction"
+
+[[sources]]
+limit = 150
+category = "cs.IT"
+title = "Information Theory"
 
 [[sources]]
 limit = 150
@@ -24,8 +79,78 @@ title = "Machine Learning"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "cs.LO"
+title = "Logic in Computer Science"
+
+[[sources]]
+limit = 150
+category = "cs.MA"
+title = "Multiagent Systems"
+
+[[sources]]
+limit = 150
+category = "cs.NA"
+title = "Numerical Analysis"
+
+[[sources]]
+limit = 150
+category = "cs.NE"
+title = "Neural and Evolutionary Computing"
+
+[[sources]]
+limit = 150
+category = "physics.atom-ph"
+title = "Atomic Physics"
+
+[[sources]]
+limit = 150
+category = "physics.bio-ph"
+title = "Biological Physics"
+
+[[sources]]
+limit = 150
+category = "physics.chem-ph"
+title = "Chemical Physics"
+
+[[sources]]
+limit = 150
+category = "physics.comp-ph"
+title = "Computational Physics"
+
+[[sources]]
+limit = 150
+category = "physics.data-an"
+title = "Data Analysis Statistics and Probability"
+
+[[sources]]
+limit = 150
+category = "physics.med-ph"
+title = "Medical Physics"
+
+[[sources]]
+limit = 150
+category = "math.IT"
+title = "Information Theory"
+
+[[sources]]
+limit = 150
+category = "math.MP"
+title = "Mathematical Physics"
+
+[[sources]]
+limit = 150
+category = "stat.AP"
+title = "Applications"
+
+[[sources]]
+limit = 150
+category = "stat.ML"
+title = "Machine Learning"
+
+[[sources]]
+limit = 150
+category = "q-bio.NC"
+title = "Neurons and Cognition"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
